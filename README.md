@@ -37,9 +37,17 @@ Le deux joueurs doivent se connecter grâce au PID du premier joueur puis le jeu
 
 Ouvrez un terminal et dirigez vous ou vous souhaitez que le projet soit installé, puis exécutez les commandes suivantes : 
 ```bash
-$ git clone git@github.com:DoctypeHonoo/my_printf.git
-$ cd my_printf
+$ git clone git@github.com:DoctypeHonoo/navy.git
+$ cd navy
 $ make
+```
+Joueur 1 :
+```bash
+$ ./navy fichier_position
+```
+Joueur 2 :
+```bash
+$ ./navy PID_Joueur_1 fichier_position
 ```
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91092610/174813458-53586f82-45c6-4b07-a6d8-f908227c5d98.png">
