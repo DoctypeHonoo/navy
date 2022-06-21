@@ -45,12 +45,15 @@ Joueur 1 :
 ```bash
 $ ./navy fichier_position
 ```
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91092610/174832174-558e3cbe-f660-4988-8336-827b6394e9c1.png">
+</p>
 Joueur 2 :
 ```bash
 $ ./navy PID_Joueur_1 fichier_position
 ```
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174813458-53586f82-45c6-4b07-a6d8-f908227c5d98.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174832311-ed529100-feb5-4526-b947-bbf7510257ec.png">
 </p>
 
 ---
