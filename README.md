@@ -60,4 +60,4 @@ $ ./navy PID_Joueur_1 fichier_position
 Le premier joueur doit lancer le programme en indiquant son fichier de position de bateau dans la ligne de l'execution du binaire, quand au second joueur, il doit inscrire avant ses positions, le PID du premier joueur, donné lors du lancement de la commande.
 ![image](https://user-images.githubusercontent.com/91092610/174833486-a7b48464-fda2-405f-912c-8fd53e112580.png)
 ![image](https://user-images.githubusercontent.com/91092610/174833586-2d946769-497f-4655-96a4-f39091ce527b.png)
-
+Cependant notre Navy ne dispose malheureusement pas encore du jeu en lui même, le jeu ne se lance donc pas après la connexion des joueurs.
