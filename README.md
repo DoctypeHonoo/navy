@@ -26,7 +26,10 @@ Le deux joueurs doivent se connecter grâce au PID du premier joueur puis le jeu
 
 ## Fonctions Autorisées : 
 
-- open, close, read, write, lseek, malloc, free, getpid, kill, signal, sigaction, sigemptyset, setcontext, getcontext, usleep, nanosleep, pause, getline, fopen, fclose
+- open, close, read, write, lseek, malloc, free
+- getpid, kill, signal, sigaction, sigemptyset
+- setcontext, getcontext, usleep, nanosleep
+- pause, getline, fopen, fclose
 
 ---
 
