@@ -1,28 +1,26 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174810019-f510ca1e-60b4-404c-990a-56407b5a6cfc.png"/>
+  <img src="https://user-images.githubusercontent.com/91092610/174816828-c5691fd3-d53f-4f20-ba17-8c670976f20e.png"/>
 </p>
 <h1 align="center">
-   My_Printf
+   Navy
 </h1>
 
 ---
 
 ## Motivation : 
 
-Le **my_printf** est le tout premier vrai projet à réaliser en solo à Epitech. Il consiste très simplement à recoder la fonction printf de la libC.
+Le **navy** est un projet de début d'année à Epitech, il s'effectue en groupe de deux. Le but est de recréer un jeu de bataille navale dans le terminal, ou les deux joueurs ne peuvent communiquer qu'avec SIGUSER1 et SIGUSER2 et jouent sur une map de taille 8x8.
 
 ---
 
 ## Description :
 
-Le but du projet est donc de recodé entièrement la fonction printf à ces quelques exceptions près : 
-- Il n'est pas nécessaire de gérer les float, ou les doubles types
-- Il n'est pas nécessaire d'implémenter le flag %n
-- Il n'est pas nécessaire d'implémenter les "\*", les "'" et les "I"
+Le deux joueurs doivent se connecter grâce au PID du premier joueur puis le jeu se lance, entre chaque tour, les joueurs doivent avoir le terrain affiché 2 fois, avec d'un côté leurs bâteaux et les coups râtés ou réussis de leur adversaire, et de l'autre côté, un terrain sans bâteau avec leurs propres coups râtés et réussis.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91092610/174827702-54f12637-4eb7-49fc-8d1d-730814a30b71.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174829629-1b7d3370-e161-4767-b703-3f96de20b1b4.png">
+</p>
 
-Cependant, doivent être ajouté :
-- Un flag %b qui doit afficher des nombres indéfinis au format binaire
-- Un flag %S qui doit afficher une chaîne de caractère comme le %s, mais qui remplace les caractères non affichable par un "\" suivi de la valeur du caractère en base octale.
 
 ---
 
