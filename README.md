@@ -57,8 +57,7 @@ $ ./navy PID_Joueur_1 fichier_position
 
 ## Comment l'utiliser ? : 
 
-Le make créera alors un libmy.a que vous pourrez réutiliser lors de votre compilation et ensuite utiliser my_printf() dans vos programmes. Il s'utilise exactement comme l'originale.
+Le premier joueur doit lancer le programme en indiquant son fichier de position de bateau dans la ligne de l'execution du binaire, quand au second joueur, il doit inscrire avant ses positions, le PID du premier joueur, donné lors du lancement de la commande.
+![image](https://user-images.githubusercontent.com/91092610/174833486-a7b48464-fda2-405f-912c-8fd53e112580.png)
+![image](https://user-images.githubusercontent.com/91092610/174833586-2d946769-497f-4655-96a4-f39091ce527b.png)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174815047-3078ab97-4244-4831-a426-3a32813c3d1f.png">
-</p>
