@@ -46,6 +46,7 @@ Joueur 1 :
 $ ./navy fichier_position
 ```
 <img src="https://user-images.githubusercontent.com/91092610/174832174-558e3cbe-f660-4988-8336-827b6394e9c1.png">
+
 Joueur 2 :
 ```bash
 $ ./navy PID_Joueur_1 fichier_position
